@@ -10,3 +10,11 @@ This repository is for me to store everything related to my Bachelor's thesis an
 - Jupyter Notebook was installed
 - Jupyter Notebook created
 - Downloaded different data sets
+
+## Data Set Shapes
+- Würzburg
+- Munich
+- Augsburg
+- Stuttgart
+- Berlin
+- Köln
