@@ -11,10 +11,19 @@ This repository is for me to store everything related to my Bachelor's thesis an
 - Jupyter Notebook created
 - Downloaded different data sets
 
-## Data Set Shapes
+## Data Set Shapes - Preprocessing Stage
 - Würzburg
 - Munich
 - Augsburg
 - Stuttgart
 - Berlin
 - Köln
+
+|  **City** |  **Columns** | **Rows** | 
+|:-----|-----:|---:|
+| Würzburg  |  15 |   |
+| Munich |   |   |
+| Augsburg  |  13 |   |
+| Berlin  |   |   |
+| Münster  |   |   |
+| Köln  |   |   |
