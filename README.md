@@ -17,8 +17,7 @@ This repository is for me to store everything related to my Bachelor's thesis an
 - Munich
 - Augsburg:
       <class 'pandas.core.frame.DataFrame'>
-    MultiIndex: 2696 entries, ('Time', 'Dieselbrücke', 'Friedberger Straße östlich Afrabrücke', 'Friedrich-Ebert-Straße östlich Haltestelle Messe', 'Färberstraße/Gollwitzerstr.', 'Gögginger Straße südlich Rosenaustraße', 'Haunstetter Straße Höhe protestantischer Friedhof', 'Konrad Adenauer Allee Fahrradstraße', 'Postillionstraße südl. Roggenstraße', 'Rosenaustraße westlich Gögginger Straße', 'Südlich A8-Unterführung, Ostseite') to ('2024-02-01 00:00:00', nan, nan, nan, nan, nan, nan, '410', nan, nan, nan)
-    Data columns (total 3 columns):
+    MultiIndex: 2696 entries, ('Time', 'Dieselbrücke', 'Friedberger Straße östlich Afrabrücke', 'Friedrich-Ebert-Straße östlich Haltestelle Messe', 'Färberstraße/Gollwitzerstr.', 'Gögginger Straße südlich Rosenaustraße', 'Haunstetter Straße Höhe protestantischer Friedhof', 'Konrad Adenauer Allee Fahrradstraße', 'Postillionstraße südl. Roggenstraße', 'Rosenaustraße westlich Gögginger Straße', 'Südlich A8-Unterführung, Ostseite') to ('2024-02-01 00:00:00', nan, nan, nan, nan, nan, nan, '410', nan, nan, nan)    Data columns (total 3 columns):
      #   Column                                             Non-Null Count  Dtype  
     ---  ------                                             --------------  -----  
      0   Zeitraum                                           2330 non-null   object 
