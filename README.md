@@ -37,7 +37,6 @@ This repository is for me to store everything related to my Bachelor's thesis an
 - ### Augsburg:
   - MultiIndex: 2696 entries, ('Time', 'Dieselbrücke', 'Friedberger Straße östlich Afrabrücke', 'Friedrich-Ebert-Straße östlich Haltestelle Messe', 'Färberstraße/Gollwitzerstr.', 'Gögginger Straße südlich Rosenaustraße', 'Haunstetter Straße Höhe protestantischer Friedhof', 'Konrad Adenauer Allee Fahrradstraße', 'Postillionstraße südl. Roggenstraße', 'Rosenaustraße westlich Gögginger Straße', 'Südlich A8-Unterführung, Ostseite') 
         Column                                             Non-Null Count  Dtype  
-    ---  ------                                             --------------  -----  
      0   Zeitraum                                           2330 non-null   object 
      1   16. September 2016 00:00 -> 1. Februar 2024 08:30  2253 non-null   object 
 
