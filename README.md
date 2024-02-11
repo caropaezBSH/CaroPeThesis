@@ -13,12 +13,11 @@ This repository is for me to store everything related to my Bachelor's thesis an
 - Checking df.info() for each data set
 
 ## Data Set Shapes - Preprocessing Stage
-- Würzburg:
+- ### Würzburg:
   - RangeIndex: 231349 entries, 0 to 231348
   - Total Columns: 15
   -    Column             Non-Null Count   Dtype  
-  - ---  ------             --------------   -----
-  -  0   Id                 231349 non-null  int64
+  - 0   Id                 231349 non-null  int64
   - 1   Date               231349 non-null  object
   - 2   Counts             153916 non-null  float64
   - 3   Status             153916 non-null  object
@@ -34,17 +33,17 @@ This repository is for me to store everything related to my Bachelor's thesis an
   - 13  photourl           108553 non-null  object
   - 14  photo              108553 non-null  object 
 
-- Munich
-- Augsburg:
+- ### Munich
+- ### Augsburg:
   - MultiIndex: 2696 entries, ('Time', 'Dieselbrücke', 'Friedberger Straße östlich Afrabrücke', 'Friedrich-Ebert-Straße östlich Haltestelle Messe', 'Färberstraße/Gollwitzerstr.', 'Gögginger Straße südlich Rosenaustraße', 'Haunstetter Straße Höhe protestantischer Friedhof', 'Konrad Adenauer Allee Fahrradstraße', 'Postillionstraße südl. Roggenstraße', 'Rosenaustraße westlich Gögginger Straße', 'Südlich A8-Unterführung, Ostseite') 
         Column                                             Non-Null Count  Dtype  
     ---  ------                                             --------------  -----  
      0   Zeitraum                                           2330 non-null   object 
      1   16. September 2016 00:00 -> 1. Februar 2024 08:30  2253 non-null   object 
 
-- Stuttgart
-- Berlin
-- Köln
+- ### Stuttgart
+- ### Berlin
+- ### Köln
 
 |  **City** |  **Columns** | **Rows** | 
 |:-----|-----:|---:|
