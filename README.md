@@ -42,6 +42,8 @@ This repository is for me to store everything related to my Bachelor's thesis an
 
 - ### Stuttgart
 - ### Berlin
+- ### Freiburg
+  - https://fritz.freiburg.de/Informationsportal/configurator?scenario=OpenData#app/mainpage/0%20{%3E}%20{00047}%20Verkehr  
 - ### Köln
 
 |  **City** |  **Columns** | **Rows** | 
