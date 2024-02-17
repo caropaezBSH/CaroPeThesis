@@ -14,7 +14,7 @@ This repository is for me to store everything related to my Bachelor's thesis an
 
 ## Data Set Shapes - Preprocessing Stage
 - ### Würzburg:
-  - RangeIndex: 231349 entries, 0 to 231348
+  - Rows: 231349
   - Total Columns: 15
   -    Column             Non-Null Count   Dtype  
   - 0   Id                 231349 non-null  int64
@@ -35,7 +35,7 @@ This repository is for me to store everything related to my Bachelor's thesis an
 
 - ### Munich
 - ### Augsburg:
-  - MultiIndex: 2696 entries, ('Time', 'Dieselbrücke', 'Friedberger Straße östlich Afrabrücke', 'Friedrich-Ebert-Straße östlich Haltestelle Messe', 'Färberstraße/Gollwitzerstr.', 'Gögginger Straße südlich Rosenaustraße', 'Haunstetter Straße Höhe protestantischer Friedhof', 'Konrad Adenauer Allee Fahrradstraße', 'Postillionstraße südl. Roggenstraße', 'Rosenaustraße westlich Gögginger Straße', 'Südlich A8-Unterführung, Ostseite') 
+  - Rows: 2696 entries, ('Time', 'Dieselbrücke', 'Friedberger Straße östlich Afrabrücke', 'Friedrich-Ebert-Straße östlich Haltestelle Messe', 'Färberstraße/Gollwitzerstr.', 'Gögginger Straße südlich Rosenaustraße', 'Haunstetter Straße Höhe protestantischer Friedhof', 'Konrad Adenauer Allee Fahrradstraße', 'Postillionstraße südl. Roggenstraße', 'Rosenaustraße westlich Gögginger Straße', 'Südlich A8-Unterführung, Ostseite') 
         Column                                             Non-Null Count  Dtype  
      0   Zeitraum                                           2330 non-null   object 
      1   16. September 2016 00:00 -> 1. Februar 2024 08:30  2253 non-null   object 
@@ -43,12 +43,3 @@ This repository is for me to store everything related to my Bachelor's thesis an
 - ### Stuttgart
 - ### Berlin
 - ### Köln
-
-|  **City** |  **Columns** | **Rows** | 
-|:-----|-----:|---:|
-| Würzburg  |  15 |   |
-| Munich |   |   |
-| Augsburg  |  13 |   |
-| Berlin  |   |   |
-| Münster  |   |   |
-| Köln  |   |   |
