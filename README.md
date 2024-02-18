@@ -43,3 +43,11 @@ This repository is for me to store everything related to my Bachelor's thesis an
 - ### Stuttgart
 - ### Berlin
 - ### Köln
+
+# Interesting Information To Check
+## Yunex Traffic
+
+Operide: Bike Sharing System
+
+Bike sharing is the trend – but how can demand and supply be matched better and how can the bikes be protected from damage and loss? Traffic planners can now use our fleet management software Operide for this purpose. Operide’s AI algorithm uses historical trip and weather data to predict the demand for e-bikes or e-scooters at each station. The predictions then feed into a recommendations algorithm which looks at the current traffic situation to allow service providers to distribute bikes and scooters according to demand and improve maintenance efficiency.
+
