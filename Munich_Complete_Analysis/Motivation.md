@@ -3,11 +3,11 @@
 What are the underlying reasons or justifications for choosing this particular topic for my research. 
 Why the subject matter is interesting, relevant, or important to me? and potentially to the academic or real-world community.
 
-### Personal Interest:
-Why am I personally interested in this topic? Is it related to a particular passion or curiosity I have?
+-> Gaining experience in data related topics -> being able to truly understand what a data scientist does and how they approach different problems that appear when analyzing unknown data from different sources and with different formats
 
-### Relevance:
-How does the chosen topic relate to the broader field of study? Is it relevant to current trends, issues, or developments in the field?
+### Personal Interest:
+Why am I personally interested in this topic? 
+Eventhough it is not a super complex group of data sets, it is complex enough for a bachelor thesis, to learn different methods for dealing with data comming from different places and in different shapes and formats
 
 ### Gap in Knowledge:
 Does my thesis aim to address a gap or deficiency in existing literature or research? What specific contribution do I hope to make?
@@ -20,6 +20,9 @@ Consider how my thesis might contribute to future research or understanding in t
 
 ### Curricular Requirements:
 My thesis is part of academic requirements: how does it fit into the overall curriculum and why it's relevant for my academic and professional development.
+
+it is mobility related -> also, gaining experience with a programming language such as python and again, how to deal with data, is completely relevant for an engineer in the autonomous driving area.
+Bein able to analyze and draw conclusions depending on trends and working on models that could predict what is going to happen "next"/in the future is of course also something that should be known, at least the basics 
 
 
 ## Trying to answer those questions:
